@@ -66,6 +66,4 @@ Xóa đơn hàng => click icon
 ![Shop2](https://github.com/MFUN11/Look/blob/64ae22e1484d609cc5aa5fcddaaaa315da84093d/Screenshot%202024-03-21%20040343.png)
 ![Index.jsp](https://github.com/MFUN11/Look/blob/main/Screenshot%202024-03-21%20035027.png)
 
-![Shop2]()
-![Shop2]()
-![Shop2]()
+
